@@ -1,5 +1,5 @@
 FROM debian:stretch
-MAINTAINER MeteorHacks Pvt Ltd.
+MAINTAINER MeteorHacks Pvt Ltd and Flo
 
 ENV METEORD_DIR /opt/meteord
 COPY scripts $METEORD_DIR
